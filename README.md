@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Vitória Genuino ✨
 
 <div>
-  <img align = "right" alt = "vivi-pisca" src = "https://discord.com/channels/979449666607411251/979449667077148732/1312516672221085767/merged.gif"
+  <img align = "right" alt = "vivi-pisca" src = "https://discord.com/channels/979449666607411251/979449667077148732/1312516672221085767"
     
 </div>
 
