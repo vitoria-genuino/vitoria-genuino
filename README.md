@@ -1,10 +1,10 @@
 ## Oi! Eu sou a Vitória Genuino ✨
 
-<div>
-  <img align = "right" alt = "vivi-pisca" src = "assets/merged.gif"
-    
-</div>
+<p align = "center">
+  <img width = "10%" alt = "vivi" src = "assets/merged.gif"
+</p>
 
+  ##
 <div>
   <a href = "https://beacons.ai/vitoria-genuino">
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=vitoria-genuino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   </div>
 
   ##
-
+  
   <picture>
   <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/vitoria-genuino/vitoria-genuino/output/github-contribution-grid-snake-dracula.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoria-genuino/vitoria-genuino/output/github-contribution-grid-snake.svg">
