@@ -5,12 +5,6 @@
 </p>
 
   ##
-<div>
-<src = https://github-readme-stats.vercel.app/api?username=vitoria-genuino>
-<src = https://github.com/vitoria-genuino/github-readme-stats)
-</div>
-
-  ##
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoria-genuino/vitoria-genuino/output/github-contribution-grid-snake-dark.svg">
