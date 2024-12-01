@@ -6,10 +6,9 @@
 
   ##
 <div>
-  <a href = "https://beacons.ai/vitoria-genuino">
-  <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=vitoria-genuino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-genuino&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
+<src = https://github-readme-stats.vercel.app/api?username=vitoria-genuino>
+<src = https://github.com/vitoria-genuino/github-readme-stats)
+</div>
 
   ##
   
